@@ -1,0 +1,51 @@
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.main-bg {
+  background-image: url("../img/background.svg");
+  background-size: cover;
+  background-position: center center;
+  color: var(--white);
+}
+.white-bg {
+  background-image: url("../img/ft2.svg");
+  color: var(--primary-color);
+  border-color: #ffd700;
+}
+
+.white-bg1 {
+  background-image: url("../img/ft2.svg");
+}
+
+.js-bg {
+  background-image: url("../img/background.svg");
+  background-size: cover;
+  background-position: center center;
+  color: var(--white);
+}
+
+.main-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: var(--gap);
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.section {
+  min-height: 130vh;
+}
+
+.menu-spacing {
+  height: 111px;
+}
+
+.spacing-test {
+  height: 555px;
+}
+
+.lib {
+  text-align: center;
+}

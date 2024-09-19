@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+h1 h2 h3 h4 h5 h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 8rem;
+}
+h2 {
+  font-size: 6rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+h3 {
+  font-size: 6rem;
+}
+h4 {
+  font-size: 5.5rem;
+}
+h5 {
+  font-size: 5rem;
+}
+h6 {
+  font-size: 4.7rem;
+}
+
+a {
+  color: #2b7c84;
+  text-decoration: underline;
+}
+
+p {
+  margin-bottom: 3rem;
+}
